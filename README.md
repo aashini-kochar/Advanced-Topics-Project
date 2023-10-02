@@ -14,3 +14,8 @@ Girls Who Code
         -Demo
             >Greeting + Goodbye
             ![Screenshot 2023-10-02 11 58 41 AM](https://github.com/aashini-kochar/Advanced-Topics-Project/assets/142924231/58eb86f0-bbaa-4260-9796-d034f3d2ba23)
+        -Activity
+            >Mirco Bit Rock Paper Scissors
+            ![Screenshot 2023-10-02 11 23 40 AM](https://github.com/aashini-kochar/Advanced-Topics-Project/assets/142924231/cd4a5fbc-9e76-451a-8a03-0f1e5a8bef16)            
+            ![Screenshot 2023-10-02 11 48 48 AM](https://github.com/aashini-kochar/Advanced-Topics-Project/assets/142924231/9bb33ecd-7126-4fa4-b477-2ffe3fda525b)
+
