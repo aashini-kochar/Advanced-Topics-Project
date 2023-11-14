@@ -25,6 +25,8 @@ Girls Who Code
             >https://docs.google.com/document/d/1mc9pudyNVgx9Rfq2s5bDP8fXCiKZfVQW-rBslD-c450/edit?usp=sharing
         Project Overview:
         Our project aims to use AI to help college students save money and find money saving oppurunities on their campus. It aims to solve overpaying for college because most students pay more than necessary and are burdened with loan debt because they are oblivious to methods they can use to save money.
+        -API
+            > https://www.analyticsvidhya.com/blog/2023/05/how-to-use-chatgpt-api-in-python/
         Minimul Viable Product:
         A functioning website and effective AI chatbot. We decided on these features as being the main components of the project and the minimul necessary for our goal to be fulfilled.
         Progress and Development:
